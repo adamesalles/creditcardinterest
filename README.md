@@ -3,6 +3,7 @@
 That's pretty simple
 
 1st insert the Fixed Interest
+
 2nd insert the Interest per Parcels
 
-Shazam! It shows the interest for until 15 parcels.
+Shazam! It shows the interest up to 15 parcels.
