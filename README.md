@@ -7,3 +7,5 @@ That's pretty simple
 2nd insert the Interest per Parcels
 
 Shazam! It shows the interest up to 15 parcels.
+
+I'm not that good with python, but if you want to make a GUI/UI for this, I'd wonder. 
