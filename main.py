@@ -66,15 +66,6 @@ class Application:
                                   text="", font=self.mainfont)
         self.messageLabel.pack()
 
-    # Método verificar senha
-    def verificaSenha(self):
-        usuario = self.fixed.get()
-        senha = self.senha.get()
-        if usuario == "usuariodevmedia" and senha == "dev":
-            self.messageLabel["text"] = "Autenticado"
-        else:
-            self.messageLabel["text"] = "Erro na autenticação"
-
     def mesure(self):
         x = float(self.fixed.get())
         y = float(self.perparcel.get())
